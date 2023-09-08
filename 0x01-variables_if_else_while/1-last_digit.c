@@ -3,6 +3,13 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/**
+ * main - Prints the last digit of a number generated at random
+ * and whether it is greater than 5, less than 6, or equal to 0
+ *
+ * Return: Always 0 (Success)
+ */
+
 /* betty style doc for function main goes there */
 int main(void)
 {
