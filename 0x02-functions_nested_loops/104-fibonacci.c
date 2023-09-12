@@ -2,10 +2,8 @@
 
 /**
 * main - fibonacci <3
-**
-Purpose - no hardcode
-**
-Return: (Success)
+* Purpose - no hardcode
+* Return: (Success)
 */
 int main(void)
 {
@@ -19,7 +17,7 @@ int main(void)
 	unsigned long int aft2;
 
 	printf("%lu", bef);
-	
+
 	for (i = 1; i < 91; i++)
 	{
 		printf(", %lu", aft);
