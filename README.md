@@ -1,1 +1,1 @@
-This directory contains files for the 0x0B - C malloc project.
+This repository contains directories for projects done in the ALX Software Engineering Course.
